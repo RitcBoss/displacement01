@@ -5,6 +5,11 @@ html {
 body {
   font-family: Arial, sans-serif;
 }
+h1{
+  font-size: 2rem;
+  color: #45a3e7;
+}
+
 .container {
   display: flex;
   flex-wrap: wrap;
